@@ -1,0 +1,18 @@
+---
+description: Enforce sprint execution pipeline for web/game delivery
+alwaysApply: true
+---
+
+# Sprint Pipeline
+
+Follow:
+
+`Think -> Plan -> Build -> Review -> Test -> Ship -> Reflect`
+
+Preferred command mapping:
+
+- Think: `/investigate`
+- Build: `/team-web`
+- Test: `/qa-web`
+- Ship: `/ship-release`
+- Reflect: `/retro-weekly`

@@ -1,0 +1,11 @@
+---
+description: Agent Studio collaboration protocol for Cursor sessions
+alwaysApply: true
+---
+
+# Agent Studio Collaboration Protocol
+
+Use the universal collaboration contract from:
+
+- `.agents/shared/core-protocol.md`
+- `.agents/shared/experience-values.md`

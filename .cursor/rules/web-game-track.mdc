@@ -1,0 +1,13 @@
+---
+description: Web game development track for Three.js and TypeScript projects
+alwaysApply: true
+---
+
+# Web Game Track
+
+Use universal web guidance from:
+
+- `.agents/shared/core-protocol.md`
+- `.claude/agents/web-specialist.md`
+- `.claude/agents/threejs-specialist.md`
+- `.claude/agents/typescript-webgame-specialist.md`

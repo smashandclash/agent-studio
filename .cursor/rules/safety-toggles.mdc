@@ -1,0 +1,13 @@
+---
+description: Apply safety toggle semantics for risky sessions
+alwaysApply: true
+---
+
+# Safety Toggles
+
+Use safety commands from canonical skills:
+
+- `/careful`
+- `/freeze [path]`
+- `/guard [path]`
+- `/unfreeze`

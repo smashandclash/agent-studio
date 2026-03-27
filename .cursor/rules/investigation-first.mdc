@@ -1,0 +1,13 @@
+---
+description: Require investigation-first debugging before applying fixes
+alwaysApply: true
+---
+
+# Investigation First
+
+Before proposing or applying a bug fix:
+
+1. Reproduce deterministically.
+2. Collect evidence.
+3. Validate root cause.
+4. Then propose fixes.

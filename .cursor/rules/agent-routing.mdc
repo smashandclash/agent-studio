@@ -1,0 +1,11 @@
+---
+description: Route tasks to the correct game studio specialist roles
+alwaysApply: true
+---
+
+# Agent Routing Guidance
+
+Follow routing from:
+
+- `.agents/shared/core-protocol.md`
+- `.claude/docs/agent-roster.md`

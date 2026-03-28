@@ -7,6 +7,7 @@ This directory exposes commands for hosts that discover `SKILL.md` files under
 
 - Canonical command behavior lives in `.agents/skills/`.
 - `.claude/skills/` is generated from this directory for Claude host compatibility.
+- Top-level `skills/` is generated from this directory as the install surface.
 
 ## Keep In Sync
 

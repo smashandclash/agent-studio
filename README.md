@@ -70,6 +70,7 @@ Agent Studio adaptations in this fork:
 - Keep `.cursor` rules and `CLAUDE.md` aligned to this shared layer.
 - Experience values live in `.agents/shared/experience-values.md`.
 - Canonical commands live in `.agents/skills/`.
+- Top-level install surface lives in `skills/` (generated from `.agents/skills/`).
 
 ### Shared principle
 All layers follow the same collaboration model:
@@ -101,6 +102,7 @@ CLAUDE.md
   shared/
   skills/
   setup/
+skills/
 .cursor/
   README.md
   rules/
@@ -136,6 +138,9 @@ host adapters generated from canonical definitions with:
 - `.agents/setup/sync-skills.ps1`
 - `.agents/setup/generate-all-adapters.sh`
 - `.agents/setup/generate-all-adapters.ps1`
+
+Top-level `skills/` is also generated from `.agents/skills/` as the repo install
+surface for SKILL.md ecosystem tooling.
 
 ## Design Value Sources
 

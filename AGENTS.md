@@ -12,6 +12,7 @@ Maintainer attribution:
 - Canonical skill implementations: `.agents/skills/`
 - Host-neutral shared standards: `.agents/shared/`
 - Generated Claude adapters: `.claude/skills/`
+- Top-level install surface (generated): `skills/`
 - Cursor host adapters: `.cursor/rules/`
 
 ## Compatibility Policy
